@@ -1,0 +1,196 @@
+body {
+  color: rgb(255 255 255 / 85%);
+  margin: 0;
+  background: #000;
+}
+
+* {
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+  scroll-margin-top: 54px;
+}
+
+*::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+
+@font-face {
+  font-family: ChintzyCPUBRK;
+  src: url('/ChintzyCPUBRK.ttf');
+}
+
+@font-face {
+  font-family: Lato;
+  src: url('/Lato-Regular.ttf');
+  font-weight: 400 500;
+}
+
+@font-face {
+  font-family: Lato;
+  src: url('/Lato-Bold.ttf');
+  font-weight: 600 700;
+}
+
+@font-face {
+  font-family: NotoSansSC;
+  src: url('/NotoSansSC-Regular.otf');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: NotoSansSC;
+  src: url('/NotoSansSC-Medium.otf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: NotoSansSC;
+  src: url('/NotoSansSC-Bold.otf');
+  font-weight: 600 700;
+}
+
+* {
+  font-family: Lato, NotoSansSC, 'PingFang SC', sans-serif, 'Microsoft YaHei';
+}
+
+.image-preview-modal .ant-modal-content {
+  padding: 0 !important;
+  /*height: 800px;*/
+}
+
+.output-card .ant-skeleton-button {
+  width: 450px !important;
+  height: 450px !important;
+  border-radius: 8px !important;
+}
+
+.creative-universes .ant-slider .ant-slider-handle::after {
+  box-shadow: 0 0 0 2px #49aa19 !important;
+}
+
+.creative-universes .ant-slider .ant-slider-rail {
+  background-color: #162312 !important;
+}
+
+.creative-universes .ant-slider .ant-slider-dot {
+  border: 2px solid #274916 !important;
+}
+
+:root {
+  --placeholder-color: rgb(255 255 255 / 55%);
+}
+
+textarea::placeholder {
+  color: var(--placeholder-color) !important;
+}
+
+textarea::-webkit-input-placeholder {
+  /* Chrome/Opera/Safari */
+  color: var(--placeholder-color) !important;
+}
+
+textarea::-moz-placeholder {
+  /* Firefox 19+ */
+  color: var(--placeholder-color) !important;
+}
+
+textarea:-moz-placeholder {
+  /* Firefox 18- */
+  color: var(--placeholder-color) !important;
+}
+
+textarea:-ms-input-placeholder {
+  /* Edge/IE 10+ */
+  color: var(--placeholder-color) !important;
+}
+
+textarea::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: var(--placeholder-color) !important;
+}
+
+input::placeholder {
+  color: var(--placeholder-color) !important;
+}
+
+input::-webkit-input-placeholder {
+  /* Chrome/Opera/Safari */
+  color: var(--placeholder-color) !important;
+}
+
+input::-moz-placeholder {
+  /* Firefox 19+ */
+  color: var(--placeholder-color) !important;
+}
+
+input:-moz-placeholder {
+  /* Firefox 18- */
+  color: var(--placeholder-color) !important;
+}
+
+input:-ms-input-placeholder {
+  /* Edge/IE 10+ */
+  color: var(--placeholder-color) !important;
+}
+
+input::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: var(--placeholder-color) !important;
+}
+
+.readme .ant-collapse-header {
+  align-items: center !important;
+  padding: 0 !important;
+}
+
+.readme .ant-collapse-content-box {
+  padding: 16px 24px !important;
+}
+
+.fine-tune-outputs-modal
+  .ant-skeleton.ant-skeleton-element
+  .ant-skeleton-image {
+  width: 179px !important;
+  height: 179px !important;
+}
+
+.fine-tune-upload .ant-upload.ant-upload-select {
+  width: 300px !important;
+  height: 300px !important;
+}
+
+.fine-tune-upload-person .ant-upload-list-item-container {
+  display: none !important;
+}
+
+.ai-product-upload .ant-upload.ant-upload-select {
+  width: 350px !important;
+  height: 350px !important;
+  border: none !important;
+}
+
+.ai-product-upload .ant-upload-list-item-container {
+  display: none !important;
+}
+
+.workshop-upload .ant-upload.ant-upload-select {
+  width: 350px !important;
+  height: 350px !important;
+  border: none !important;
+  margin-bottom: 0 !important;
+}
+
+.workshop-upload .ant-upload-list-item-container {
+  display: none !important;
+}
+
+.control-net-upload .ant-upload.ant-upload-select {
+  width: 269px !important;
+  height: 269px !important;
+  border: none !important;
+  margin-bottom: 0 !important;
+}
+
+.control-net-upload .ant-upload-list-item-container {
+  display: none !important;
+}
