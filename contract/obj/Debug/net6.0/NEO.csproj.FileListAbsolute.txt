@@ -1,0 +1,12 @@
+E:\VSProject\NEO\bin\Debug\net6.0\NEO.deps.json
+E:\VSProject\NEO\bin\Debug\net6.0\NEO.dll
+E:\VSProject\NEO\bin\Debug\net6.0\NEO.pdb
+E:\VSProject\NEO\obj\Debug\net6.0\NEO.csproj.AssemblyReference.cache
+E:\VSProject\NEO\obj\Debug\net6.0\NEO.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSProject\NEO\obj\Debug\net6.0\NEO.AssemblyInfoInputs.cache
+E:\VSProject\NEO\obj\Debug\net6.0\NEO.AssemblyInfo.cs
+E:\VSProject\NEO\obj\Debug\net6.0\NEO.csproj.CoreCompileInputs.cache
+E:\VSProject\NEO\obj\Debug\net6.0\NEO.dll
+E:\VSProject\NEO\obj\Debug\net6.0\refint\NEO.dll
+E:\VSProject\NEO\obj\Debug\net6.0\NEO.pdb
+E:\VSProject\NEO\obj\Debug\net6.0\ref\NEO.dll

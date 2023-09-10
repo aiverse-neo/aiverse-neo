@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qQF4fTGuILx58SdtmJoIxPBbFAN3g8MVzEAfvi4GQfkiBYUdkKPc9POrttdo0WlHiIXq86FeAmpOl82AF9U1TQ==",
+  "success": true,
+  "projectFilePath": "E:\\VSProject\\NEO\\NEO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HZHX-SiJiaming\\.nuget\\packages\\neo.smartcontract.framework\\3.5.0\\neo.smartcontract.framework.3.5.0.nupkg.sha512",
+    "C:\\Users\\HZHX-SiJiaming\\.nuget\\packages\\neo3.compiler.csharp.dev\\3.5.0\\neo3.compiler.csharp.dev.3.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
